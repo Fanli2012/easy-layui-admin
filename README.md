@@ -4,7 +4,7 @@ layui后端模板，layui后台管理模板，layui admin框架
 
 ## 效果截图
 
-![alt text](/images/screenshots.jpg "网站截图")
+![alt text](images/screenshots.jpg "网站截图")
 
 
 ## 说明
